@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "googlecalendarapi", "googlecalendarapi.csproj", "{CE9C3860-DC01-4FCD-8D50-CB616E7A13F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE9C3860-DC01-4FCD-8D50-CB616E7A13F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9C3860-DC01-4FCD-8D50-CB616E7A13F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9C3860-DC01-4FCD-8D50-CB616E7A13F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9C3860-DC01-4FCD-8D50-CB616E7A13F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96819B75-61E1-4125-BDCF-688E1EFA8DF5}
+	EndGlobalSection
+EndGlobal
